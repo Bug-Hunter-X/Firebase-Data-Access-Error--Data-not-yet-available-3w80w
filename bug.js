@@ -1,0 +1,1 @@
+The Firebase SDK might throw an error if the data you are trying to access is not yet available or has not been fully loaded. This commonly happens when accessing data from a listener before the data has fully populated.
