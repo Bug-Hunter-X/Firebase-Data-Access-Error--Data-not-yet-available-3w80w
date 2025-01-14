@@ -1,0 +1,1 @@
+This repository demonstrates a common Firebase error where attempting to access data before it's fully loaded results in an error. The `bug.js` file shows the erroneous code, while `bugSolution.js` provides the correct asynchronous approach.  The error typically manifests as `undefined` or `null` values being returned before the data is fetched from Firebase.
